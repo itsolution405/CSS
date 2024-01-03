@@ -1,0 +1,15 @@
+body {
+    font-size: x-large;
+}
+
+h2 {
+    color: red;
+}
+
+#main {
+    color: darkred;
+}
+
+ol li {
+    color: green;
+}
