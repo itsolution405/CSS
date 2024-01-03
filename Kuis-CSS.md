@@ -1,3 +1,3 @@
-1. Apa sintaks yang benar untuk menambahkan CSS sebaris ke elemen HTML?
+# 1. Apa sintaks yang benar untuk menambahkan CSS sebaris ke elemen HTML?
    
    element style = "CSS code"
