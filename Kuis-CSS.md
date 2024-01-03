@@ -12,4 +12,4 @@
 
 # 3. Apa sintaks yang benar untuk menautkan stylesheet eksternal ke dokumen HTML?
 
-<link href="style.css" rel="stylesheet" />
+<link href="style.css" rel="stylesheet" /> </link>
