@@ -9,3 +9,7 @@ https://github.com/itsolution405/HTML-CSS/assets/141856824/4cf515f2-e80f-42b7-bf
 Contoh
 
 RGB Colors Slider https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+
+CSS Colorhunt
+
+https://colorhunt.co/
