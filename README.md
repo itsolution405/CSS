@@ -7,3 +7,5 @@ Setelah Mengenal Sejarah pada CSS, berikut contoh kode-kode CSS
 # Berikut Struktur kode dari css (Sintaks Dasar CSS)
 
 Contoh
+
+RGB Colors Slider https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
