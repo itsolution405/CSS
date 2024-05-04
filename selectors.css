@@ -1,0 +1,16 @@
+body {
+    font-size: x-large;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+#main {
+    color: darkred;
+}
+
+ol li {
+    color: green;
+}
